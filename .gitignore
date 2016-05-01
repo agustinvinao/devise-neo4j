@@ -31,3 +31,5 @@ test/rails_app/log
 nbproject
 
 .vagrant
+
+/.idea/
