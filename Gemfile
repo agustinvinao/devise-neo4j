@@ -9,7 +9,7 @@ gem "rdoc"
 
 gem 'neo4j', '~> 5.0.0'
 gem 'neo4j-core', '~> 5.0.0'
-gem 'devise', '4.1.2', github: 'agustinvinao/devise'
+gem 'devise', '4.2.0', github: 'agustinvinao/devise'
 
 group :test do
   gem "omniauth-facebook"

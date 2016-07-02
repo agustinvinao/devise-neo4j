@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/agustinvinao/devise.git
-  revision: 6aeadcabb92d702fcfdd9f206418ebe5e0a3d552
+  revision: edbe047f95137b9abc12f376898f5b7ac3932d09
   specs:
-    devise (4.1.2)
+    devise (4.2.0)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 4.1.0, < 5.1)
@@ -12,7 +12,7 @@ GIT
 PATH
   remote: .
   specs:
-    devise-neo4j (2.0.2)
+    devise-neo4j (2.0.3)
       bcrypt (>= 3.0)
       devise (>= 4.0)
       neo4j (>= 3.0.0)
@@ -218,7 +218,7 @@ PLATFORMS
 
 DEPENDENCIES
   bson_ext (~> 1.3.0)
-  devise (= 4.1.2)!
+  devise (= 4.2.0)!
   devise-neo4j!
   jruby-openssl
   mocha
